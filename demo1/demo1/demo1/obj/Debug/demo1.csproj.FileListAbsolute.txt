@@ -1,0 +1,11 @@
+E:\IT_study\C sharp\demo1\demo1\demo1\bin\Debug\demo1.exe.config
+E:\IT_study\C sharp\demo1\demo1\demo1\bin\Debug\demo1.exe
+E:\IT_study\C sharp\demo1\demo1\demo1\bin\Debug\demo1.pdb
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.csprojResolveAssemblyReference.cache
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.Form1.resources
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.Properties.Resources.resources
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.csproj.GenerateResource.Cache
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.exe
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.pdb
+E:\IT_study\C sharp\demo1\demo1\demo1\obj\Debug\demo1.Form2.resources
