@@ -56,6 +56,20 @@ namespace demo1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+            if (p == null)
+            {
+                p = new System.Diagnostics.Process();
+                p.StartInfo.FileName = "mspaint.exe";
+                p.Start();
+            }
+            else
+            {
+                if (p.HasExited) //是否正在运行
+                {
+                    p.Start();
+                }
+            }
+            p.StartInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Normal;
+        }
     }
 }
