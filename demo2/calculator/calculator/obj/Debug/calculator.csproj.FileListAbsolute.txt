@@ -1,0 +1,10 @@
+E:\IT_study\C sharp\demo2\calculator\calculator\bin\Debug\calculator.exe.config
+E:\IT_study\C sharp\demo2\calculator\calculator\bin\Debug\calculator.exe
+E:\IT_study\C sharp\demo2\calculator\calculator\bin\Debug\calculator.pdb
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.exe
+E:\IT_study\C sharp\demo2\calculator\calculator\obj\Debug\calculator.pdb
